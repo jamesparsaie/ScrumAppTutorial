@@ -19,6 +19,7 @@
 		BC4565E62A6768DF00F72274 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC4565E52A6768DF00F72274 /* CardView.swift */; };
 		BC4565E82A676C3900F72274 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC4565E72A676C3900F72274 /* TrailingIconLabelStyle.swift */; };
 		BC4565EA2A676E7B00F72274 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC4565E92A676E7B00F72274 /* ScrumsView.swift */; };
+		BC4565EC2A67783C00F72274 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC4565EB2A67783C00F72274 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		BC4565E52A6768DF00F72274 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		BC4565E72A676C3900F72274 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		BC4565E92A676E7B00F72274 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		BC4565EB2A67783C00F72274 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				BC4565BC2A67612C00F72274 /* Preview Content */,
 				BC4565E72A676C3900F72274 /* TrailingIconLabelStyle.swift */,
 				BC4565E92A676E7B00F72274 /* ScrumsView.swift */,
+				BC4565EB2A67783C00F72274 /* DetailView.swift */,
 			);
 			path = Scrumdinger;
 			sourceTree = "<group>";
@@ -281,6 +284,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BC4565E62A6768DF00F72274 /* CardView.swift in Sources */,
+				BC4565EC2A67783C00F72274 /* DetailView.swift in Sources */,
 				BC4565E82A676C3900F72274 /* TrailingIconLabelStyle.swift in Sources */,
 				BC4565B92A67612B00F72274 /* MeetingView.swift in Sources */,
 				BC4565EA2A676E7B00F72274 /* ScrumsView.swift in Sources */,
